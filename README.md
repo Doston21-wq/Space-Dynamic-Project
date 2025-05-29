@@ -26,9 +26,8 @@
 
 ---
 
-## 📦 Folder Structure
-
-The project is organized as follows:
+## 📥 Clone This Project
+To clone this repository to your local machine using Git:
 
 ```bash
 https://github.com/Doston21-wq/Space-Dynamic-Project.git
